@@ -10,3 +10,10 @@ body {
 .keyword {
     text-emphasis;
 }
+
+#topics {
+    font-size: medium;
+    font-style: italic;
+    color:rgb(93, 47, 15);
+}
+
